@@ -195,7 +195,7 @@ h2{
 
 .sendbtn
     {
-    height: 6%;
+    height: 7%;
     width: 23%;
     position: absolute;
     background: #fc0163;
@@ -237,7 +237,7 @@ h2{
 #your-name{
     height: 8%;
     width: 42%;
-    margin: -10px 0 15px 50px;
+    margin: 10px 0 15px 50px;
 }
 
 #emailtxt{
